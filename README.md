@@ -124,21 +124,9 @@
 
 ---
 
-
-
----
-
-
-
 ---
 
 # 🚀 Featured Projects
-
-⭐ Project One
-
-⭐ Project Two
-
-⭐ AI Project
 
 ⭐ Portfolio Website
 
