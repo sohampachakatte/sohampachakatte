@@ -14,7 +14,7 @@
 
 ## 🌟 About Me
 
-- 🔭 Currently working on **Full Stack Projects**
+- 🔭 Currently working on **Mern Stack**
 - 🌱 Learning **AI,MernStack**
 - 💡 Interested in **Machine Learning and fullStack dev**
 - 💬 Ask me about **java ,c++,python...**
