@@ -15,10 +15,10 @@
 ## 🌟 About Me
 
 - 🔭 Currently working on **Full Stack Projects**
-- 🌱 Learning **AI, Cloud Computing & DevOps**
-- 💡 Interested in **Machine Learning, Web Development & Open Source**
-- 💬 Ask me about **Python, JavaScript, React, Node.js**
-- 📫 Reach me at **YOUR_EMAIL**
+- 🌱 Learning **AI,MernStack**
+- 💡 Interested in **Machine Learning and fullStack dev**
+- 💬 Ask me about **java ,c++,python...**
+- 📫 Reach me at **sohampachkatte@gmial.com**
 - ⚡ Fun Fact: **I love solving real-world problems with code.**
 
 ---
@@ -27,31 +27,24 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sohampachakatte">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/sohampachakatte">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
-</a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/soham.pachkatte">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
-<a href="https://discord.com/users/YOUR_ID">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord"/>
-</a>
-
-<a href="https://www.youtube.com/@YOUR_CHANNEL">
+<a href="https://www.youtube.com/@RiseWith.Discipline">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="https://portfolio-link.com">
+<a href="https://soham-portfolio-beta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -73,7 +66,7 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,php,go,rust"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript"/>
 
 </p>
 
@@ -81,39 +74,27 @@
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,vue,vite"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react"/>
 
 </p>
 
-### Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring"/>
-
-</p>
 
 ### Database
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
 
-### DevOps & Cloud
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux,git,github,vercel,netlify"/>
-
-</p>
 
 ### Tools
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman,idea,androidstudio,photoshop"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,capcut,chatgpt,claude,SpringToolsForEclipse"/>
 
 </p>
 
@@ -123,9 +104,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohampachakatte&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampachakatte&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -135,7 +116,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohampachakatte&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -145,7 +126,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohampachakatte&theme=tokyo-night"/>
 
 </p>
 
@@ -155,7 +136,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sohampachakatte&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </p>
 
@@ -165,7 +146,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/sohampachakatte/sohampachakatte/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -193,23 +174,6 @@
 
 </p>
 
----
-
-# 🎵 Spotify (Optional)
-
-```text
-Connect your Spotify using GitHub Actions
-```
-
----
-
-# ☕ Support Me
-
-<a href="https://buymeacoffee.com/YOUR_ID">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buymeacoffee"/>
-</a>
-
----
 
 <p align="center">
 
