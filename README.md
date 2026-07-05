@@ -55,7 +55,7 @@
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=sohampachakatte&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
@@ -137,9 +137,7 @@
 # 💡 Quote
 
 <p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6C63FF&height=250&section=header&text=Building%20what%20others%20think%20is%20impossible.&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 
