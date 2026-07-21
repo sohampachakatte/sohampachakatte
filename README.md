@@ -82,7 +82,7 @@
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,figma,capcut,git,github,postman"/>
+<img src="https://skillicons.dev/icons?i=vscode,figma,capcut,git,github"/>
 </p>
 
 ---
