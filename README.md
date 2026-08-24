@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | AI Enthusiast | Open Source Contributor
+🚀 Full Stack Developer | AI Enthusiast | Open Source contributor
 </h3>
 
 <p align="center">
