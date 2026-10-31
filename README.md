@@ -20,7 +20,6 @@
 
 I'm a **Full Stack Developer** passionate about building clean, scalable and user-focused web applications. I enjoy turning real-world problems into practical software, and I'm steadily expanding my skills in **Artificial Intelligence and Machine Learning** to build smarter products.
 
-When I'm not coding, I'm contributing to open source, exploring new technologies, and creating content around discipline and personal growth.
 
 <table align="center">
   <tr>
